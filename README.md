@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/10c980d2-83a7-430c-be6f-d3660a07f492" width="1500" height="600">
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 
 <h1 align="center">Hi 👋, I'm Sahar Hamdi</h1>
@@ -13,6 +13,7 @@
 ---
 
 ### 👨‍💻 About Me:
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1fRMMMAHAmoiD3Z3NRYWMQGdKclnu_yaV/view?usp=drive_link)  
 - 🎓 **Graduation**: Cairo University, Faculty of Computers & Artificial Intelligence, AI Department.
 - 💬 **Ask me about**: Data Analysis, Machine Learning, Programming.
 - 📫 **Reach me at**: [hamdisahar388@gmail.com](mailto:hamdisahar388@gmail.com)
@@ -25,6 +26,15 @@
 <p align="left">
   <a href="https://linkedin.com/in/sahar-hamdi-9467b8224" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Sahar Hamdi" height="40" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/sahar_hamdi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces - Sahar Hamdi" height="40" width="40" />
+  </a>
+  <a href="https://leetcode.com/Sahar112/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Sahar Hamdi" height="40" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/hamdisahar388" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Sahar Hamdi" height="40" width="40" />
   </a>
 </p>
 
@@ -52,6 +62,19 @@
 
 ---
 
+### 🎓 Education
+
+---
+
+#### 🏫 **Bachelor's Degree in Computer Scinece and Artificial Intelligence**
+
+- ![University Badge](https://img.shields.io/badge/Cairo_University_Faculty_of_Computers_and_Artificial_Intelligence-0055A4?style=flat&logo=university&logoColor=white)
+- ![GPA Badge](https://img.shields.io/badge/GPA-2.77/4.0-brightgreen)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%202020%20–%20July%202024-yellow)
+
+---
+
+
 ## 💼 Experience
 
 ### Code Instructor (Ischool) - *Digital Egypt Marvels Initiative*
@@ -60,13 +83,6 @@
 
 ---
 
-## 🎓 Education
-**Bachelor’s Degree Artificial Intelligence**  
-Faculty of Computers and Artificial Intelligence, Cairo University.  
-- **GPA**: 2.77/4  
-- **Duration**: October 2020 – July 2024  
-
----
 
 ## 📊 Projects
 
