@@ -42,20 +42,25 @@
 
 ## 🛠️ Technical Skills
 
-### 🖥️ Programming Languages:
+### 🖥️ Programming:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
+![OOP](https://img.shields.io/badge/OOP-FF6F61?style=flat&logo=object-oriented-programming&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+![Data Structures](https://img.shields.io/badge/Data%20Structures-00796B?style=flat&logo=data-structures&logoColor=white) 
+![Algorithms](https://img.shields.io/badge/Algorithms-FFC107?style=flat&logo=algorithms&logoColor=white)
 
 ### 🤖 Data Science & ML:
+![Statistics](https://img.shields.io/badge/Statistics-9C27B0?style=flat&logo=statistics&logoColor=white) 
+![Mathematics](https://img.shields.io/badge/Mathematics-4CAF50?style=flat&logo=mathematica&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
-
-### 🧠 Machine Learning & AI:
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![KNN](https://img.shields.io/badge/K--Means_Clustering-FF6347?style=flat&logo=clustering)
 ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-008080?style=flat&logo=machinelearning&logoColor=white)
@@ -69,7 +74,6 @@
 #### 🏫 **Bachelor's Degree in Computer Scinece and Artificial Intelligence**
 
 - ![University Badge](https://img.shields.io/badge/Cairo_University_Faculty_of_Computers_and_Artificial_Intelligence-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-2.77/4.0-brightgreen)
 - ![Duration Badge](https://img.shields.io/badge/Duration-October%202020%20–%20July%202024-yellow)
 
 ---
@@ -90,7 +94,14 @@
 - Developed a **Story Image Generator Platform** using **Stable Diffusion XL** for image generation and **OpenAI GPT-3.5** for story creation.
 - **Technologies**: Python, BLIP, CLIP for fine-tuning, Django for backend, HTML, CSS for frontend.
 
+
+
+
+
+  
+
 ### 🎵 Spotify Dataset Analysis
+
 
 ![image](https://github.com/user-attachments/assets/8fe72f06-fc01-42c0-97c5-f18a1dcce134)
 
@@ -101,10 +112,67 @@
 - Visualized results on **Tableau**.  
   [**Project Link**](https://github.com/sahar-hamdi/Spotify-Tracks-Analytics-and-Prediction)
 
+
+
+
+
+
+
+
+
+### 🚗Automobile Sales Analysis using Excel
+
+
+![image](https://github.com/user-attachments/assets/34dc8baf-59ba-4648-bd81-aa458b1102ad)
+
+
+
+
+1. **Data Import and Preprocessing**: Imported the dataset, handled missing values, removed duplicates, and formatted the data.
+2. **Data Validation**: Used Power Query to ensure data accuracy and consistency.
+3. **Exploratory Data Analysis**: Utilized pivot tables to explore relationships, checked for outliers using box plots, and analyzed correlations with a heatmap.
+4. **Data Visualization**: Created visualizations to highlight key insights.
+5. **Dashboard Creation**: Developed an interactive sales dashboard in Excel based on the analysis.
+[**Project Link**]([https://github.com/sahar-hamdi/Spotify-Tracks-Analytics-and-Prediction](https://github.com/sahar-hamdi/Automobeile-sales-analysis))
+
+
+
+
+Your description is good, but I’ve made a few minor edits to improve clarity and flow:
+
+---
+
+# Bike Sales Analysis by Excel
+
+
+![image](https://github.com/sahar-hamdi/Bike-Sales-Analysis-Dashboard/assets/93557883/7eb5f1e9-9f9e-467c-8be0-779e77131320)
+
+
+
+1. Downloaded the dataset.
+2. Removed duplicates using Excel.
+3. Cleaned data by using "Find and Replace" to standardize values with the same name.
+4. Added a new column, **Age Brackets**, to categorize the original **Age** column into more useful brackets.
+5. Created 3 pivot tables to summarize, aggregate, and visualize the data.
+6. Finally, built the dashboard to showcase key insights.
+
+
+
+
+
+
+
 ### 🌺 IRIS Dataset Analysis & Classification
 - Loaded, explored, and visualized **IRIS Dataset**. Built **KNN**, **Logistic Regression**, and **Decision Tree** models, compared their results.
 - Technologies: Python, Pandas, Matplotlib.  
   [**Project Link**](https://github.com/sahar-hamdi/IRIS_Dataset_Analysis_Classification)
+
+
+
+
+
+
+  
 
 ### 📈 Optimizers in Machine Learning
 - Preprocessed the **MNIST Dataset** and implemented **Logistic Regression** with L1 regularization using various optimizers such as **RMSProp** and **Adam**.
