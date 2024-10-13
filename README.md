@@ -97,8 +97,8 @@
 
 
 
+---
 
-  
 
 ### 🎵 Spotify Dataset Analysis
 
@@ -116,8 +116,7 @@
 
 
 
-
-
+---
 
 
 ### 🚗Automobile Sales Analysis using Excel
@@ -138,11 +137,10 @@
 
 
 
-Your description is good, but I’ve made a few minor edits to improve clarity and flow:
 
 ---
 
-# Bike Sales Analysis by Excel
+# 🚲Bike Sales Analysis by Excel
 
 
 ![image](https://github.com/sahar-hamdi/Bike-Sales-Analysis-Dashboard/assets/93557883/7eb5f1e9-9f9e-467c-8be0-779e77131320)
@@ -160,7 +158,7 @@ Your description is good, but I’ve made a few minor edits to improve clarity a
 
 
 
-
+---
 
 ### 🌺 IRIS Dataset Analysis & Classification
 - Loaded, explored, and visualized **IRIS Dataset**. Built **KNN**, **Logistic Regression**, and **Decision Tree** models, compared their results.
@@ -169,15 +167,6 @@ Your description is good, but I’ve made a few minor edits to improve clarity a
 
 
 
-
-
-
-  
-
-### 📈 Optimizers in Machine Learning
-- Preprocessed the **MNIST Dataset** and implemented **Logistic Regression** with L1 regularization using various optimizers such as **RMSProp** and **Adam**.
-- Compared model performance.  
-  [**Project Link**](https://github.com/sahar-hamdi/Optimizers-Implementation-from-Scratch)
 
 ---
 
