@@ -132,7 +132,9 @@
 3. **Exploratory Data Analysis**: Utilized pivot tables to explore relationships, checked for outliers using box plots, and analyzed correlations with a heatmap.
 4. **Data Visualization**: Created visualizations to highlight key insights.
 5. **Dashboard Creation**: Developed an interactive sales dashboard in Excel based on the analysis.
-[**Project Link**]([https://github.com/sahar-hamdi/Spotify-Tracks-Analytics-and-Prediction](https://github.com/sahar-hamdi/Automobeile-sales-analysis))
+
+[**Project Link**](https://github.com/sahar-hamdi/Automobeile-sales-analysis)
+
 
 
 
@@ -154,6 +156,7 @@
 5. Created 3 pivot tables to summarize, aggregate, and visualize the data.
 6. Finally, built the dashboard to showcase key insights.
 
+[**Project Link**](https://github.com/sahar-hamdi/Automobeile-sales-analysis)
 
 
 
@@ -163,7 +166,7 @@
 ### 🌺 IRIS Dataset Analysis & Classification
 - Loaded, explored, and visualized **IRIS Dataset**. Built **KNN**, **Logistic Regression**, and **Decision Tree** models, compared their results.
 - Technologies: Python, Pandas, Matplotlib.  
-  [**Project Link**](https://github.com/sahar-hamdi/IRIS_Dataset_Analysis_Classification)
+  [**Project Link**](https://github.com/sahar-hamdi/Bike-Sales-Analysis-Dashboard)
 
 
 
