@@ -90,7 +90,7 @@
 
 ## 📊 Projects
 
-### 🎨 IMAGITALE (Graduation Project)
+### **🎨IMAGITALE (Graduation Project)**
 - Developed a **Story Image Generator Platform** using **Stable Diffusion XL** for image generation and **OpenAI GPT-3.5** for story creation.
 - **Technologies**: Python, BLIP, CLIP for fine-tuning, Django for backend, HTML, CSS for frontend.
 
@@ -100,7 +100,7 @@
 ---
 
 
-### 🎵 Spotify Dataset Analysis
+### **🎵Spotify Dataset Analysis**
 
 
 ![image](https://github.com/user-attachments/assets/8fe72f06-fc01-42c0-97c5-f18a1dcce134)
@@ -119,7 +119,7 @@
 ---
 
 
-### 🚗Automobile Sales Analysis using Excel
+### **🚗Automobile Sales Analysis using Excel**
 
 
 ![image](https://github.com/user-attachments/assets/34dc8baf-59ba-4648-bd81-aa458b1102ad)
@@ -135,14 +135,28 @@
 
 [**Project Link**](https://github.com/sahar-hamdi/Automobeile-sales-analysis)
 
+---
 
 
+
+
+### **📽Movies Ratings Analysis.**
+
+![image](https://github.com/user-attachments/assets/2b2559d8-b176-411b-a1f3-575373c159ec)
+
+1. **Data Import and Preprocessing**: Imported the dataset, handled missing values, removed duplicates, and formatted the data.
+2. **Data Validation**: Used Power Query to ensure data accuracy and consistency.
+3. **Exploratory Data Analysis**: Utilized pivot tables to explore relationships.
+4. **Data Visualization**: Created visualizations to highlight key insights.
+5. **Dashboard Creation**: Developed an interactive dashboard in Excel based on the analysis.
+
+[**Project Link**](https://github.com/sahar-hamdi/Movies-Ratings-Analysis-by-Excel)
 
 
 
 ---
 
-# 🚲Bike Sales Analysis by Excel
+### **🚲Bike Sales Analysis by Excel**
 
 
 ![image](https://github.com/sahar-hamdi/Bike-Sales-Analysis-Dashboard/assets/93557883/7eb5f1e9-9f9e-467c-8be0-779e77131320)
@@ -163,7 +177,7 @@
 
 ---
 
-### 🌺 IRIS Dataset Analysis & Classification
+### **🌺IRIS Dataset Analysis & Classification**
 - Loaded, explored, and visualized **IRIS Dataset**. Built **KNN**, **Logistic Regression**, and **Decision Tree** models, compared their results.
 - Technologies: Python, Pandas, Matplotlib.  
   [**Project Link**](https://github.com/sahar-hamdi/Bike-Sales-Analysis-Dashboard)
@@ -182,6 +196,7 @@
 - **C++ Guides** (Udemy)  
 - **Python** (Kaggle)  
 - **Git & GitHub** (YouTube)
+- **Data Analysis by Excel (Udemy)
 
 ---
 
