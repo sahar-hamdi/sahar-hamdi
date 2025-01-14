@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sahar Hamdi</h1>
-<h3 align="center">Data Analyst</h3>
+<h1 align="center">AI & ML Engineer & Data Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
