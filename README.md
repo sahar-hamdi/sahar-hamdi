@@ -81,6 +81,9 @@
 
 ## 💼 Experience
 
+### AI & ML Engineer at Coretech Innovations Technologies 
+**December2024-Present**
+
 ### Code Instructor (Ischool) - *Digital Egypt Marvels Initiative*
 **June 2024 - August 2024**  
 - Taught **Fundamental Computer Science** concepts (programming basics, algorithms) and guided students through mobile app development projects using App Lab.
