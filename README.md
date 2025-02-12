@@ -12,15 +12,6 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/drive/folders/1LVqLq9AdBC0GhcO0A9PPLltB7i_V2jZF?usp=drive_link)  
-- 🎓 **Graduation**: Cairo University, Faculty of Computers & Artificial Intelligence, AI Department.
-- 💬 **Ask me about**: Data Analysis, Machine Learning, Programming.
-- 📫 **Reach me at**: [hamdisahar388@gmail.com](mailto:hamdisahar388@gmail.com)
-- ⚡ **Fun fact**: I love creating data-driven solutions to complex problems!  
-- 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/sahar.hamdi/vizzes)
-
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -209,6 +200,16 @@
 - **Coach Academy Organization**: Trained in **Data Types**, **Conditions**, **Loops**, **Arrays**, and **STLs**.  
 - **GDSC Machine Learning Workshop**: Learned **Python** and analyzed datasets like **Housing Dataset Analysis** using **Linear Regression** and **Clustering**.  
 - **ICPC-CU Community**: Participated as a **Bronze Level** contestant in problem-solving contests.
+
+---
+
+### 👨‍💻 About Me:
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/drive/folders/1LVqLq9AdBC0GhcO0A9PPLltB7i_V2jZF?usp=drive_link)  
+- 🎓 **Graduation**: Cairo University, Faculty of Computers & Artificial Intelligence, AI Department.
+- 💬 **Ask me about**: Data Analysis, Machine Learning, Programming.
+- 📫 **Reach me at**: [hamdisahar388@gmail.com](mailto:hamdisahar388@gmail.com)
+- ⚡ **Fun fact**: I love creating data-driven solutions to complex problems!  
+- 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/sahar.hamdi/vizzes)
 
 ---
 
