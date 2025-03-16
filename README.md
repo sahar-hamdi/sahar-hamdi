@@ -75,7 +75,7 @@
 ### **AI & ML Engineer at Coretech Innovations Technologies**
 **December2024-Present**
 
-### Data Analyst Trainee at Digital Egypt Pioneers Initiative**
+### **Data Analyst Trainee at Digital Egypt Pioneers Initiative**
 **November2024-Present**
 
 
