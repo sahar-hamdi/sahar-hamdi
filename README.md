@@ -97,10 +97,31 @@ I conducted a comprehensive sales analysis by:
 - Key Business Questions – Identified and addressed crucial sales-related questions.
 - Dashboard Visualization – Designed an interactive and insightful dashboard.
 - 
-[**Project Link**](https://github.com/sahar-hamdi/Spotify-Tracks-Analytics-and-Prediction)
+[**Project Link**]([https://github.com/sahar-hamdi/Spotify-Tracks-Analytics-and-Prediction](https://github.com/sahar-hamdi/Sales-Analysis-Dashboard-on-Excel))
 
 
 --- 
+
+### **📽️Movies Ratings Analysis**
+
+![Dashboard 1 (2)](https://github.com/user-attachments/assets/27254d84-a4c9-41e5-810b-6a3325429f47)
+
+
+I conducted an in-depth analysis of movie ratings, covering:
+
+- Exploratory Data Analysis (EDA) – Examined data distribution and extracted key insights.
+- Data Cleaning – Removed null values and duplicates to ensure data quality.
+- Data Insights & Business Questions – Identified patterns and answered critical questions.
+- Data Visualization – Designed an interactive dashboard using Tableau for better understanding.
+
+This analysis provides valuable insights into movie ratings, helping uncover trends and audience preferences..
+
+
+[**Project Link**]([https://github.com/sahar-hamdi/Spotify-Tracks-Analytics-and-Prediction](https://github.com/sahar-hamdi/Sales-Analysis-Dashboard-on-Excel))
+
+
+---
+
 
 
 ### **🎨IMAGITALE (Graduation Project)**
