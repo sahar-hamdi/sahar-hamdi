@@ -72,10 +72,14 @@
 
 ## 💼 Experience
 
-### AI & ML Engineer at Coretech Innovations Technologies 
+### **AI & ML Engineer at Coretech Innovations Technologies**
 **December2024-Present**
 
-### Code Instructor (Ischool) - *Digital Egypt Marvels Initiative*
+### Data Analyst Trainee at Digital Egypt Pioneers Initiative**
+**November2024-Present**
+
+
+### **Code Instructor (Ischool) - (Digital Egypt Marvels Initiative)**
 **June 2024 - August 2024**  
 - Taught **Fundamental Computer Science** concepts (programming basics, algorithms) and guided students through mobile app development projects using App Lab.
 
@@ -117,7 +121,7 @@ I conducted an in-depth analysis of movie ratings, covering:
 This analysis provides valuable insights into movie ratings, helping uncover trends and audience preferences..
 
 
-[**Project Link**]([https://github.com/sahar-hamdi/Spotify-Tracks-Analytics-and-Prediction](https://github.com/sahar-hamdi/Sales-Analysis-Dashboard-on-Excel))
+[**Project Link**](https://github.com/sahar-hamdi/Movies-Rating-Analysis-Python-Tableau)
 
 
 ---
