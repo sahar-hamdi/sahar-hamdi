@@ -234,7 +234,9 @@ This analysis provides valuable insights into movie ratings, helping uncover tre
 - **C++ Guides** (Udemy)  
 - **Python** (Kaggle)  
 - **Git & GitHub** (YouTube)
-- **Data Analysis by Excel (Udemy)
+- **Data Analysis by Excel (Udemy)**
+- **Deep Learning Specialization (Coursera- Andrew Ng)**
+- **MLOps Fundamentals (Coursera- Andrew Ng)**
 
 ---
 
@@ -244,6 +246,7 @@ This analysis provides valuable insights into movie ratings, helping uncover tre
 - **Coach Academy Organization**: Trained in **Data Types**, **Conditions**, **Loops**, **Arrays**, and **STLs**.  
 - **GDSC Machine Learning Workshop**: Learned **Python** and analyzed datasets like **Housing Dataset Analysis** using **Linear Regression** and **Clustering**.  
 - **ICPC-CU Community**: Participated as a **Bronze Level** contestant in problem-solving contests.
+- **AI & ML Workshop Instructor | IMT School:** Conducted an AI & ML Engineering workshop at Creativa Center, Banha, training participants on key concepts and practical applications in artificial intelligence and machine learning.
 
 ---
 
