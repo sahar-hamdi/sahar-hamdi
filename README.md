@@ -84,6 +84,25 @@
 
 ## 📊 Projects
 
+
+### **Sales Analysis Dashboard**
+
+![image](https://github.com/user-attachments/assets/605f900f-db55-4a4a-b07c-1abb082a066c)
+
+I conducted a comprehensive sales analysis by:
+
+- Data Cleaning – Ensured accuracy and consistency in the dataset.
+- Data Exploration & Analysis – Leveraged Pivot Tables to uncover insights.
+- Data Modeling – Connected multiple sheets using Power Pivot for better integration.
+- Key Business Questions – Identified and addressed crucial sales-related questions.
+- Dashboard Visualization – Designed an interactive and insightful dashboard.
+- 
+[**Project Link**](https://github.com/sahar-hamdi/Spotify-Tracks-Analytics-and-Prediction)
+
+
+--- 
+
+
 ### **🎨IMAGITALE (Graduation Project)**
 - Developed a **Story Image Generator Platform** using **Stable Diffusion XL** for image generation and **OpenAI GPT-3.5** for story creation.
 - **Technologies**: Python, BLIP, CLIP for fine-tuning, Django for backend, HTML, CSS for frontend.
