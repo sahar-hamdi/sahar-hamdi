@@ -100,7 +100,7 @@ I conducted a comprehensive sales analysis by:
 - Data Modeling – Connected multiple sheets using Power Pivot for better integration.
 - Key Business Questions – Identified and addressed crucial sales-related questions.
 - Dashboard Visualization – Designed an interactive and insightful dashboard.
-- 
+  
 [**Project Link**](https://github.com/sahar-hamdi/Sales-Analysis-Dashboard-on-Excel)
 
 
