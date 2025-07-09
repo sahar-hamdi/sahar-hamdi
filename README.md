@@ -1,6 +1,3 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-
-
 <h1 align="center">Hi 👋, I'm Sahar Hamdi</h1>
 <h1 align="center">AI-ML Engineer & Data Analyst</h3>
 
