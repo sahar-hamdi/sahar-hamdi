@@ -2,11 +2,6 @@
 <h1 align="center">AI-ML Engineer & Data Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sahar-hamdi&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-hamdi" /> 
-</p>
-
 ---
 
 
